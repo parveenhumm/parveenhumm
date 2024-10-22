@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @parveenhumm
 - 👀 I’m interested in learning challenging stuffs
-- 🌱 I’m currently learning developing
-- 📫 How to reach me 
+- 🌱 I’m currently learning developing 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: python is snake😂
 

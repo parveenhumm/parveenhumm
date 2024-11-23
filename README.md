@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning challenging stuffs
 - 🌱 I’m currently learning developing 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: python is snake😂
+- ⚡ python is snake?😂
 
 <!---
 parveenhumm/parveenhumm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
